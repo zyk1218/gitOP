@@ -9,4 +9,8 @@ public class Feature {
         //尝试使用git commit --amend命令是否可以新加代码且不更改CommitID
         System.out.println("当前版本号是：c726c90ad511d764be673aa00ca35f23b1617c24");
     }
+
+    public void feature2(){
+        System.out.println("feature2");
+    }
 }
